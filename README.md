@@ -1,2 +1,2 @@
-# KivyMD_Studoi
-Среда разработки для фреймворка Kivy
+# KivyMD_Studio
+Development environment for the Kivy framework
